@@ -2,7 +2,6 @@ let images = {
 
     menu: [
         "29af5ac23852679ebae26fa65d20f424.png",
-        "2aa79027847b705c280faafd32b65841.jpeg",
         "bf3114097cccc4bfcb4b6cf27e623d23.png",
         "IMG_1155.jpeg"
     ],
